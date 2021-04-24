@@ -39,6 +39,10 @@
     font-family: Circular Std;
     margin-right: 23px;
 }
+a:hover {
+    color: white !important;
+    text-decoration: none !important;
+}
 .nav-item {
     color: white;
     transition: all .3s ease-out 0s;
